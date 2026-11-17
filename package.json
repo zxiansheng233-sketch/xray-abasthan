@@ -1,0 +1,1 @@
+{"description":"Xray VLESS+WS on Abasthan free tier","name":"xray-abasthan","scripts":{"start":"bash start.sh"},"version":"1.0.0"}
